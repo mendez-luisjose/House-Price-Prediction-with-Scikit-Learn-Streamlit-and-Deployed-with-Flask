@@ -156,7 +156,7 @@ def add_predictions(input_data) :
 
 def main() :  
     st.set_page_config(
-        page_title="Iris Flower Classificator",
+        page_title="House Price Predictor",
         layout="wide",
         initial_sidebar_state="expanded"
     )

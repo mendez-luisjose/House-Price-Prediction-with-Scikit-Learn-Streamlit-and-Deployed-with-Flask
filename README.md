@@ -6,10 +6,6 @@
 
 The Model was trained with Tabular House Prices Dataset and with the `XGBRegressor` Architecture. The Model predicts the Price of a given House, also the U.I. to select the parameters of the House was built with Streamlit and the API with Flask. 
 
-## Check-it out the App Deployed in the Streamlit Services
-
-House Price Predictor App Deployed at: https://weather-predictor.streamlit.app/
-
 ## Run it Locally
 
 Test it Locally by running the `app.py` file, built with `Streamlit`, and the `api.py` file with `Flask`. Remember first to run the `api.py` file, copy the http url and saved in the API variable of the `app.py` file, and uncomment the code lines.
